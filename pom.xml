@@ -11,6 +11,7 @@
     <modules>
         <module>hadoop_demo</module>
         <module>generate_data</module>
+        <module>sqoop_demo</module>
     </modules>
 
 

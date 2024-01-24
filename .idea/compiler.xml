@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="generate_data" />
         <module name="hadoop_demo" />
+        <module name="sqoop_demo" />
       </profile>
     </annotationProcessing>
   </component>
